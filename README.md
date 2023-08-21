@@ -11,7 +11,7 @@ I've been coding since two years but recently founded my passion in Web3.0 Devel
 * 🤝  I'm open to collaborating on Ethereum Blockchain related Projects
 
 <a href="https://www.twitter.com/Ankit7241" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Ankit7241?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/ankit7241?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -22,8 +22,7 @@ src="https://img.shields.io/twitter/follow/Ankit7241?logo=twitter&style=for-the-
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/Ankit Choudhary#2336" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/ankit7241" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/ankit7241" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ankit7241" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/Ankit7241" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/ankit7241" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
