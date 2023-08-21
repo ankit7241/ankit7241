@@ -10,7 +10,7 @@ I've been coding since two years but recently founded my passion in Web3.0 Devel
 * ✉️  You can contact me at [sign.ankit14@gmail.com](mailto:sign.ankit14@gmail.com)
 * 🤝  I'm open to collaborating on Ethereum Blockchain related Projects
 
-<a href="https://www.twitter.com/Ankit7241" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ankit7241" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ankit7241?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
