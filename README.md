@@ -1,10 +1,8 @@
 Hi 👋 My name is Ankit Choudhary
 ================================
 
-Web3.0 Developer
+Full Stack Web3.0 Developer
 ----------------
-
-I've been coding since two years but recently founded my passion in Web3.0 Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sign.ankit14@gmail.com](mailto:sign.ankit14@gmail.com)
